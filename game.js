@@ -75,7 +75,7 @@ function gameOver() {
 }
 
 function playSound(name) {
-  var audioSample = new Audio(name + ".mp3");
+  var audioSample = new Audio( name + ".mp3");
   audioSample.play();
 }
 
