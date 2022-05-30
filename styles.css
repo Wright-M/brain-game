@@ -10,6 +10,11 @@ body {
   color: #FEF2BF;
 }
 
+h3{
+  color: #FEF2BF;
+  font-family: 'Press Start 2P';
+}
+
 .container {
   display: block;
   width: auto;
